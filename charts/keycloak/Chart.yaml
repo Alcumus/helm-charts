@@ -13,7 +13,7 @@ keywords:
 home: https://www.keycloak.org/
 icon: https://www.keycloak.org/resources/images/keycloak_logo_480x108.png
 sources:
-  - https://github.com/codecentric/helm-charts
+  - https://github.com/alcumus/helm-charts
   - https://github.com/jboss-dockerfiles/keycloak
 maintainers:
   - name: unguiculus
